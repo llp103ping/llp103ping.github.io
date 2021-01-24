@@ -1,8 +1,8 @@
-
 ![Family](https://raw.githubusercontent.com/llp103ping/images/master/001_Family.jpg)
 
 
 # Family
+
 
 ## Family tree
 + relative
@@ -22,9 +22,13 @@
 + brother sister
 + **cousin**
 + friend
+
+
 ### Common expressions
 + **Have you got any** brothers and sisters?
 + **Do you come from a big family?**
+
+
 ### Common mistakes
 + my/his **wife**
 + our/their **wives**
