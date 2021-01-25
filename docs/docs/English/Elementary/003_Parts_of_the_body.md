@@ -1,11 +1,11 @@
-![Birth&Marriage&Death](https://raw.githubusercontent.com/llp103ping/images/master/003_Parts_of_the_body.jpg)
+![Birth&Marriage&Death](https://raw.githubusercontent.com/llp103ping/images/master/English/Elementary/003_Parts_of_the_body.jpg)
 
 
 # Parts of the body
 
 
 ## Head and face
-+ head -> brain
++ head -> brain **headscarf**
 + hair black hairbrush
 + eye watch eyeglasses
 + ear listen earring
