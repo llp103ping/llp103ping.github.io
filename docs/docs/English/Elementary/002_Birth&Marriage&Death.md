@@ -6,7 +6,7 @@
 
 ## Birth
 + birth birthday born 
-+ baby child youth adult elerly
++ baby child youth adult **elderly**
 + play study work retire
 + home school office countryside
 

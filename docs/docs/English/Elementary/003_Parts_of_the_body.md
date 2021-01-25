@@ -25,7 +25,7 @@
   + **nail**
 + leg
   + knee
-  + foot/feet football **socks** shose
+  + foot/feet football **socks** shoes
   + toe
 
 

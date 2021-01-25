@@ -24,7 +24,7 @@
 
 
 ## Verbs
-### wear/carry/get...on
+### wear/carry/get...on/take...off
   + -> You wear clothes but you carry things.
   + -> I wear glasses.
   + -> She is wearing a very beautiful coat.
