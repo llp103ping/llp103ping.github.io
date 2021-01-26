@@ -1,4 +1,4 @@
-![Birth&Marriage&Death](https://raw.githubusercontent.com/llp103ping/images/master/English/Elementary/003_Parts_of_the_body.jpg)
+![Parts of the body](https://raw.githubusercontent.com/llp103ping/images/master/English/Elementary/003_Parts_of_the_body.jpg)
 
 
 # Parts of the body
