@@ -20,7 +20,7 @@
    + -> **long/short** hair
 + moustache -> I have **a** short moustache.
 + She **has got** dark skin and dark hair.
-+ people have blone or dark hair(~~hairs~~).
++ people have blond or dark hair(~~hairs~~).
 + **pretty** **ugly** beautiful good-looking **average-looking**
   + My girlfriend is a pretty girl, but I'm a average-looking man. So I'm so lucky. 
   + Her eyes are beautiful, because they are blue.

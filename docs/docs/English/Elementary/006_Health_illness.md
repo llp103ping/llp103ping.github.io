@@ -39,7 +39,7 @@
 + cancer
   + Every year cancer kills many people when smoke.
 + **heart attack**
-  + My fathe had(~~got~~) a heart attack.
+  + My father had(~~got~~) a heart attack.
   + My father went to hospital when he had a heart attack.
 
 
