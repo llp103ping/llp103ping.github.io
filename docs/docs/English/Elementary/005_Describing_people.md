@@ -1,4 +1,4 @@
-![Describing_people](https://raw.githubusercontent.com/llp103ping/images/master/English/Elementary/005_Describing_people.jpg)
+![Describing people](https://raw.githubusercontent.com/llp103ping/images/master/English/Elementary/005_Describing_people.jpg)
 
 
 # 005_Describing people
