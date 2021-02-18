@@ -14,7 +14,7 @@
 ### Common mistakes
   + Someone had a baby (~~got a baby~~)
   + Someone was born (~~Someone born/Someone is born~~)
- <!-- more -->
+<!-- more -->
 
 
 ## Marriage
@@ -31,7 +31,7 @@
 
 
 ### common mistakes
-+ She got married **to him**(~~with him~~)
+  + She got married **to him**(~~with him~~)
 
 
 ## Death
@@ -45,4 +45,4 @@
 
 
 ### Common mistakes
-+ He **is dead**(~~is died/is death~~)
+  + He **is dead**(~~is died/is death~~)

@@ -31,12 +31,13 @@
   + -> My girlfriend is carrying a nice handbag and a small suitcase.
   + -> She **has(got)** a red coat **on**.
   + -> He carry a bag and an **umbrella**.
-  + -> In every morning she **get dressed** or **put** her clothes **on**. At night she **get undressed** or **take** her **off**.
+  * -> In every morning she **get dressed** or **put** her clothes **on**
+  * ->At night she **get undressed** or **take** her **off**.
 
-
-## Common mistakes
-+ **put** clothes **on(~~off~~)**
-+ **take** clothes **off(~~on~~)**
-+ I'm putting on my socks and shoes.
+  
+### Common mistakes
+  + **put** clothes **on(~~off~~)**
+  + **take** clothes **off(~~on~~)**
+  + I'm putting on my socks and shoes.
 
 
