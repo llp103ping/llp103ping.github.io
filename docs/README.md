@@ -12,6 +12,13 @@
 
 # English in use
 
+<<<<<<< HEAD
 ## Elementary
 * [People]()
 * [At Home]()
+=======
+# &#xU+1F1ECU+1F1E7 English in use
+## 🏷Elementary
++ [👨‍👩‍👦People]()
++ [🏠At Home]()
+>>>>>>> d366172d6851416e371ba5a3bd8659d24028e145
