@@ -2938,4 +2938,4 @@ ETF 拯救世界 05/02/2021
 
 [原文](https://mp.weixin.qq.com/s/ijO_kUiauuEspSJkuItfzw) 发布于 03/11/2018
 
-[春节特辑 DAY4: 心态与思维模式的重要性](./docs/Investment/ETFZJSJ/ETFZJSJ?id=春节特辑DAY4心态与思维模式的重要性)
+[春节特辑 DAY4: 心态与思维模式](./docs/Investment/ETFZJSJ/ETFZJSJ?id=春节特辑DAY4心态与思维模式)
