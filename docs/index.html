@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
   <meta charset="UTF-8">
   <title>llp103ping's blog</title>
@@ -9,7 +10,8 @@
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-</head>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css"/>
+  </head>
 
 <body>
   <div id="app"></div>
@@ -19,7 +21,7 @@
     window.$docsify = {
       name: "llp103ping's blog",
       repo: 'llp103ping/docsify',
-      maxLevel: 5,//最大支持渲染的标题层级
+      maxLevel: 4,//最大支持渲染的标题层级
       subMaxLevel: 3,
       homepage: 'README.md',
       coverpage: true,
@@ -71,12 +73,12 @@
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
   <!-- 添加回到顶部 -->
   <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script> 
-
   <!-- 访问量统计 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<!-- 运行时间统计 -->
-<script language=javascript>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!-- 折叠 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <!-- 运行时间统计 -->
+  <script language=javascript>
   function siteTime() {
     window.setTimeout("siteTime()", 1000);
     var seconds = 1000;
