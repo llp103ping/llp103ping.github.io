@@ -39,7 +39,9 @@
 总而言之，这张估值表的作用和潜力非常非常巨大，你可以用它做事情很多，还希望大家多多挖掘
 
 附图 2016 年 3 月 8 日的估值表
+
 ![全市场 PE 与深综指走势对比图 20160308](https://raw.githubusercontent.com/llp103ping/images/master/Investment/全市场PE与深综指走势对比图20160308.png)
+
 ![各指数 pe 走势 20160308](https://raw.githubusercontent.com/llp103ping/images/master/Investment/各指数pe走势20160308.png)
 
 ### 今日（2021 年 3 月 2 日）点评
