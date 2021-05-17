@@ -3603,3 +3603,4 @@ E 大推荐语：
 小彩蛋
 
 我们将 E 大的所有推荐做了一个微信书单，点击下方链接即可收藏。祝开卷有知。微信书单：[E 大的投资书单](https://weread.qq.com/misc/booklist/411713918_7qbQvKfIZ?code=0618DSFa11it0B01sXHa1G9hvB08DSFL&state=411713918_7qbQvKfIZ)
+
