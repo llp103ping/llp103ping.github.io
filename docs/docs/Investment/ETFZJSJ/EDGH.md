@@ -3134,8 +3134,9 @@ ETF 拯救世界 05/12/2021
 * 哈利·波特与密室（纪念版）
 * 富爸爸穷爸爸（最新修订版）
 
-![](https://asset.youzhiyouxing.cn/image/2021/05/11/01F5DAWB8WZJMYFC97Y005GC6V.jpeg)
-![](https://asset.youzhiyouxing.cn/image/2021/05/11/01F5DAVXRHPZ0SWAW19847W3QP.jpeg)
+![](https://raw.githubusercontent.com/llp103ping/images/master/Investment/2021-05-17-22-39-29.png)
+
+![](https://raw.githubusercontent.com/llp103ping/images/master/Investment/2021-05-17-22-40-02.png)
 
 最后，替这些孩子，以及未来还会收到我们书的孩子们谢谢各位打赏的朋友们。我相信他们中一定有人会从这次捐的书中获取知识和乐趣，对未来的人生会产生哪怕一点点积极的影响。各位善莫大焉。我关闭本篇文章的赞赏选项。是怕朋友们继续因为这件事进行赞赏。这次事情让我体会到公开做慈善确实不易。我不想把很简单的一件想把朋友们赞赏的钱捐给贫困孩子的事情，变成什么大家一起做的公益。我没这个资质，也没这个精力。所以，未来我会继续以自己的方式延续已经做了很多年的捐款行动，不会再公开。再次替孩子们谢谢大家。孩子们并不知道我和你们的名字，也不知道到底是谁帮了他们。但我相信，未来他们有机会也会帮助别人。
 
@@ -3173,7 +3174,7 @@ ETF 拯救世界 05/12/2021
 
 之前说的捐书的事继续按部就班的进行中。下面是广西拿到书的小朋友发来的照片（保护隐私我把脸挡上了……）。看到照片的时候我心里非常感动……有时候一本书会改变一个人的人生，希望有书读的他们未来会越来越好。
 
-![](https://asset.youzhiyouxing.cn/image/2021/05/11/01F5DBC70PFDFFBS5RVXSQFRA6.jpeg)
+![](https://raw.githubusercontent.com/llp103ping/images/master/Investment/2021-05-17-22-40-52.png)
 
 接下来几天会再向云南和河北发送两批。之后这事情就告一段落。薪火相传，生生不息。
 
@@ -3202,11 +3203,11 @@ ETF 拯救世界 05/12/2021
 
 继续跟大家报告一下之前为贫困地区孩子送书的事。昨天，送到云南的书孩子们已经拿到了。据老师说，孩子们都很高兴。孩子们说，这是六一最好的礼物！
 
-![](https://asset.youzhiyouxing.cn/image/2021/05/11/01F5DA69C68XBSEEV5NZX1ZKCQ.png?x-oss-process=image/resize,w_1280,limit_1)
+![](https://raw.githubusercontent.com/llp103ping/images/master/Investment/2021-05-17-22-41-15.png)
 
-![](https://asset.youzhiyouxing.cn/image/2021/05/11/01F5DA6MX9B1Q7XSEF7Z1R49QA.png?x-oss-process=image/resize,w_1280,limit_1)
+![](https://raw.githubusercontent.com/llp103ping/images/master/Investment/2021-05-17-22-41-35.png)
 
-![](https://asset.youzhiyouxing.cn/image/2021/05/11/01F5DA6Z47A7S1208YV691BG45.png?x-oss-process=image/resize,w_1280,limit_1)
+![](https://raw.githubusercontent.com/llp103ping/images/master/Investment/2021-05-17-22-41-58.png)
 
 这次寄出的书比上次少了些，孩子们希望看的书有一些没有找到。下次有机会会买了再寄过去。明天会更好。感谢每个人。
 
